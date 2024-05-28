@@ -24,14 +24,15 @@ Cada X representa a una letra. Si el usuario adivina correctamente, el programa 
 
 Debe introducir la respuesta Sí o No apropiada. Si el usuario no adivina correctamente, debe mostrarse la parte del cuerpo apropiada. Después de 7 intentos fallidos, el usuario debe ser colgado. La pantalla debe verse así:
 
-`  +---+
-  |   |
-  O   |
- /|\  |
- / \  |
-      |
-=========
-`
+	```
+	  +---+
+	  |   |
+	  O   |
+	 /|\  |
+	 / \  |
+	      |
+	=========
+	```
 
 4. Escriba un programa que determine si dos cadenas introducidas por teclado son anagramas. Se considera que dos cadenas son anagramas si contienen exactamente los mismos caracteres, ya sea en el mismo o en diferente orden: ignorar los blancos y considerar que mayúsculas y minúsculas son iguales.
 
